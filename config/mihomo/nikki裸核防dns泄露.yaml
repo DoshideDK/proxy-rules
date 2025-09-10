@@ -162,7 +162,7 @@ rules:
   #- RULE-SET,netflix_ip,🏷️ 便宜节点
   #- RULE-SET,netflix_domain,🏷️ 便宜节点  
   - RULE-SET,tiktok_domain,🏷️ 便宜节点
-  - RULE-SET,youtube_domain,🏷️ 便宜节点  
+  - RULE-SET,youtube_domain,🌍 专线节点
   - RULE-SET,porn_domain,🏷️ 便宜节点  
 
   - RULE-SET,my_pureip,🌍 专线节点
